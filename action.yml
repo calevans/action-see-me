@@ -1,0 +1,6 @@
+# action.yml
+name: 'See Me'
+description: 'Simple github action to see what is going on in a github action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
