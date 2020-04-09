@@ -1,4 +1,4 @@
-FROM asclinux/linuxforphp-8.2:7.4-zts
+FROM asclinux/linuxforphp-8.1:7.2-zts
 
 COPY entrypoint.sh \
      /action/
